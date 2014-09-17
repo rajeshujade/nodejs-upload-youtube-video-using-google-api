@@ -37,9 +37,9 @@ Youtube is not allowing to upload a video using OAuth 2.0 Service Account. This 
 cd nodejs-upload-youtube-video-using-google-api
 DEBUG=* && npm start
 ```
-4. Authorized the application using web based OAuth 2.0
-5. Run the node backend script `node scripts/youtube.js`
-6. Check uploaded video on youtube ![Youtube Channel](https://www.youtube.com/my_videos)
+5. Authorized the application using web based OAuth 2.0
+6. Run the node backend script `node scripts/youtube.js`
+7. Check uploaded video on youtube ![Youtube Channel](https://www.youtube.com/my_videos)
 
 Read the full API docs on the Google+ website https://developers.google.com/youtube/v3/
 
