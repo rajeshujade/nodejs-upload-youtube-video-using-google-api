@@ -39,7 +39,7 @@ DEBUG=* && npm start
 ```
 - Authorized the application using web based OAuth 2.0
 - Run the node backend script `node scripts/youtube.js`
-- Check uploaded video on youtube ![Youtube Channel](https://www.youtube.com/my_videos)
+- Check uploaded video on youtube https://www.youtube.com/my_videos
 
 Read the full API docs on the Google+ website https://developers.google.com/youtube/v3/
 
