@@ -13,7 +13,7 @@ var googleyoutube = function(){
 };
 
 googleyoutube.prototype.getAuthUrl = function(){
-	var options = {'scope':config.scope,'access_type':config.access_type,'approval_prompt':'force','response_type':'code'};
+	var options = {'scope':config.scope,'access_type':'offline','approval_prompt':'force','response_type':'code'};
    	return this.oauth2Client.generateAuthUrl(options);
 };
 

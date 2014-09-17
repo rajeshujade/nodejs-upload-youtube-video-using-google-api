@@ -11,7 +11,6 @@
     "debug": "~1.0.4",
     "ejs": "~0.8.5",
     "express": "~4.8.6",
-    "google-auth-cli": "0.0.1",
     "googleapis": "^1.0.12",
     "mime": "^1.2.11",
     "mkdirp": "^0.5.0",

@@ -1,10 +1,9 @@
 {
-  "CLIENT_ID"      : "531752385027-l0noole3503k1mcs9ua6f8rcbe6r243a.apps.googleusercontent.com",
-  "CLIENT_SECRET"  : "5kp2Ydyj-SOPg2d9NDDO518Y",
-  "REDIRECT_URL"   : "http://25803937.com/",
+  "CLIENT_ID"      : "",
+  "CLIENT_SECRET"  : "",
+  "REDIRECT_URL"   : "http://example.com/",
   "scope"          : ["https://www.googleapis.com/auth/youtube", "https://www.googleapis.com/auth/youtube.upload"],
-  "access_type"    : "offline",
   "token_dir_path" : "/tmp/googleyoutube/",
   "token_file"     : "token.txt",
-  "video_dir_path" : "/var/www/stack/25803937/videos/"
+  "video_dir_path" : "pathtoapplication/videos/"
 }
