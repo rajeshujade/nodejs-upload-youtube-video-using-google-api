@@ -43,7 +43,7 @@ DEBUG=* && npm start
 
 Read the full API docs on the Google+ website https://developers.google.com/youtube/v3/
 
-Uses the Google APIs Client Library for Node.js hhttps://github.com/google/google-api-nodejs-client
+Uses the Google APIs Client Library for Node.js https://github.com/google/google-api-nodejs-client
 
 ### Google Registration ###
 1. https://console.developers.google.com
