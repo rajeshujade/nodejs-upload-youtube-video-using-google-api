@@ -17,8 +17,8 @@ Youtube is not allowing to upload a video using OAuth 2.0 Service Account. This 
 ```
 #Direct Installation#
 
-1. In the root directory nginx configuration file is provided. Copy this file in nginx config folder and restart the server.
-2. Change the google api configuration options in `vim config/googleyoutube.json` 
+- In the root directory nginx configuration file is provided. Copy this file in nginx config folder and restart the server.
+- Change the google api configuration options in `vim config/googleyoutube.json` 
 
 ```
 {
@@ -31,15 +31,15 @@ Youtube is not allowing to upload a video using OAuth 2.0 Service Account. This 
   "video_dir_path" : "pathtoapplication/videos/"
 }
 ```
-3. Add host entry for example.com
-4. Run node web application - 
+- Add host entry for example.com
+- Run node web application - 
 ```
 cd nodejs-upload-youtube-video-using-google-api
 DEBUG=* && npm start
 ```
-5. Authorized the application using web based OAuth 2.0
-6. Run the node backend script `node scripts/youtube.js`
-7. Check uploaded video on youtube ![Youtube Channel](https://www.youtube.com/my_videos)
+- Authorized the application using web based OAuth 2.0
+- Run the node backend script `node scripts/youtube.js`
+- Check uploaded video on youtube ![Youtube Channel](https://www.youtube.com/my_videos)
 
 Read the full API docs on the Google+ website https://developers.google.com/youtube/v3/
 
