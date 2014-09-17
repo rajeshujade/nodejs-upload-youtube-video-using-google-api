@@ -7,7 +7,7 @@ Upload video to youtube using Google APIs Node.js Client with express.
 
 Youtube is not allowing to upload a video using OAuth 2.0 Service Account. This library will help to upload a server to server video using OAuth 2.0 authentication. It needs to take offline & upload video to youtube permission only one time. After that it will save the credentials in files system & use the same to upload all video from videos directory using background process like cronjob.
 
-### Purpose ###
+### Dependecies ###
 ```
 "express": "~4.8.6",
 "ejs": "~0.8.5",
