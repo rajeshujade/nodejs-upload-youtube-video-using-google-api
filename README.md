@@ -51,10 +51,10 @@ Uses the Google APIs Client Library for Node.js hhttps://github.com/google/googl
 2. Create New Project
 
 3. To get `Google+ API` Access go to: APIs & Auth->APIs
-![Register API](https://github.com/rajeshujade/google-plus-api-codeigniter-starter/blob/master/screenshot/3.png)
+![Register API](https://github.com/rajeshujade/nodejs-upload-youtube-video-using-google-api/blob/master/screenshot/3.png)
 
 4. To Get `client_id & client_secret` go to: APIs & Auth->Credentials->Create new Client ID
-![Client ID](https://github.com/rajeshujade/google-plus-api-codeigniter-starter/blob/master/screenshot/4.png)
+![Client ID](https://github.com/rajeshujade/nodejs-upload-youtube-video-using-google-api/blob/master/screenshot/4.png)
 
 5. To Get `api_key` go to: APIs & Auth->Credentials->Create New Key->Browser key
-![Browser Key](https://github.com/rajeshujade/google-plus-api-codeigniter-starter/blob/master/screenshot/5.png)
+![Browser Key](https://github.com/rajeshujade/nodejs-upload-youtube-video-using-google-api/blob/master/screenshot/5.png)
