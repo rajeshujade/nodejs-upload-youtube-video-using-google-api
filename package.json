@@ -1,0 +1,24 @@
+{
+  "name": "25803937",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.6.6",
+    "cookie-parser": "~1.3.2",
+    "debug": "~1.0.4",
+    "ejs": "~0.8.5",
+    "express": "~4.8.6",
+    "google-auth-cli": "0.0.1",
+    "googleapis": "^1.0.12",
+    "mime": "^1.2.11",
+    "mkdirp": "^0.5.0",
+    "morgan": "~1.2.3",
+    "request": "^2.42.0",
+    "serve-favicon": "~2.0.1",
+    "stylus": "0.42.3",
+    "underscore": "^1.7.0"
+  }
+}
