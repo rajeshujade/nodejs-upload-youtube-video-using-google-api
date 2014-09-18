@@ -38,7 +38,8 @@ cd nodejs-upload-youtube-video-using-google-api
 DEBUG=* && npm start
 ```
 - Authorized the application using web based OAuth 2.0
-- Run the node backend script `node scripts/youtube.js`
+- Added video in `videos/` directory.
+- Run the node backend script `node scripts/youtube.js`. This scripts takes video(s) from `videos/` directory
 - Check uploaded video on youtube https://www.youtube.com/my_videos
 
 Read the full API docs on the Google+ website https://developers.google.com/youtube/v3/
